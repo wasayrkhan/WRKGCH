@@ -1,1 +1,1 @@
-All assignments from Software Engineering can be found in this folder
+Some assignments from Software Engineering can be found in this folder
